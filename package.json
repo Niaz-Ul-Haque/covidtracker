@@ -2,6 +2,7 @@
   "name": "covidtracker",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Niaz-Ul-Haque.github.io/covidtracker",
   "engines": {
     "npm": "5.7.1",
     "node": "9.5.0"
